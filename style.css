@@ -6,6 +6,8 @@ header{
 .slider{
     background-color: yellow ;
 }
-
+.slider:hover{
+    background-color: blue ;
+}
 
 
